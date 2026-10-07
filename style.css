@@ -1,0 +1,96 @@
+/* 
+   Oi Prof. Felipe. O meu projeto seria sobre games, porém como
+   a SATC bloqueou a API que eu iria usar (RAWG api), eu decidi 
+   mudar o tema do meu projeto para gatos. Culpe a SATC por meu
+   projeto não ser tão criativo.
+*/
+
+body {
+  margin: 0;
+
+  padding: 0;
+
+  background-color: #808080;
+
+  color: #000000;
+
+  font-family: "Times New Roman", Times, serif;
+}
+
+a {
+  color: #0000ee;
+
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #551a8b;
+}
+
+a:hover {
+  color: #ff0000;
+}
+
+#catButton {
+  background-color: #c0c0c0;
+
+  color: #000000;
+
+  border-top: 2px solid #ffffff;
+
+  border-left: 2px solid #ffffff;
+
+  border-right: 2px solid #404040;
+
+  border-bottom: 2px solid #404040;
+
+  padding: 4px 12px;
+
+  font-family: "MS Sans Serif", Arial, sans-serif;
+
+  font-size: 11px;
+
+  cursor: pointer;
+}
+
+#catButton:active {
+  border-top: 2px solid #404040;
+
+  border-left: 2px solid #404040;
+
+  border-right: 2px solid #ffffff;
+
+  border-bottom: 2px solid #ffffff;
+}
+
+#catImage {
+  display: none;
+
+  max-width: 500px;
+
+  height: auto;
+}
+
+#loading {
+  display: none;
+}
+
+#error {
+  display: none;
+
+  color: #ff0000;
+}
+
+center > table {
+  background-color: #ffffff;
+}
+
+@media screen and (max-width: 780px) {
+  center > table {
+    width: 95% !important;
+  }
+
+  #catImage {
+    max-width: 100%;
+  }
+}
