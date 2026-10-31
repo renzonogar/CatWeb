@@ -8,6 +8,6 @@ Para combinar com a proposta, o site foi desenvolvido com uma estética inspirad
 A ideia é simular um pequeno "portal de gatos" de 1998.
 
 <p align="center">
-  <img width="320" height="407" alt="catdance" src="https://github.com/user-attachments/assets/3ab17cf3-ab6f-4cdc-af7a-900596e04d4b" />
+  <img width="400" height="400" alt="dancingcat.gif" src="https://github.com/user-attachments/assets/e63c87d3-4050-498d-a90b-e45a0290f089" />
   <h6>Last updated: 10/07/1998</h6>
 </p>
